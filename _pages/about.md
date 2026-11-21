@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Economics
+subtitle: 
 
 profile:
   align: right
   image: pp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>WZB</p>
-    <p>Reichpietschufer 50</p>
-    <p>Berlin, Germany</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome!
+<style>
+  .profile {
+    width: 45% !important;
+  }
+</style>
 
 I am a PhD candidate in Economics at the [Berlin School of Economics](https://berlinschoolofeconomics.de/) and [WZB Berlin Social Science Center](https://wzb.eu/en). I hold a master's degree in Economics and Psychology from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
