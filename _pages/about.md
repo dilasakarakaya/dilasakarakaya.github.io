@@ -26,10 +26,23 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 <style>
   .profile {
     width: 50% !important;
+  }
+
+    @media (min-width: 768px) {
+    .profile {
+      margin-top: -4.5rem;
+    }
+  }
+  
+  .news h2 a {
+    font-size: 0;
+  }
+  .news h2 a::after {
+    content: "announcements";
+    font-size: 2rem;
   }
 </style>
 
