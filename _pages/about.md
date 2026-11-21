@@ -53,6 +53,14 @@ latest_posts:
     --global-theme-color: #e0a3c4 !important;
     --global-hover-color: #e0a3c4 !important;
   }
+
+    #search-toggle .nav-link {
+    font-size: 0 !important;
+  }
+  #search-toggle .nav-link i {
+    font-size: 1rem !important;
+  }
+  
 </style>
 
 I am a PhD candidate in Economics at the [Berlin School of Economics](https://berlinschoolofeconomics.de/) and [WZB Berlin Social Science Center](https://wzb.eu/en). I hold a master's degree in Economics and Psychology from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
