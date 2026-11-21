@@ -15,6 +15,13 @@ nav_order: 2
     --global-theme-color: #e0a3c4 !important;
     --global-hover-color: #e0a3c4 !important;
   }
+
+    #search-toggle .nav-link {
+    font-size: 0 !important;
+  }
+  #search-toggle .nav-link i {
+    font-size: 1rem !important;
+  }
 </style>
 
 <!-- _pages/publications.md -->
