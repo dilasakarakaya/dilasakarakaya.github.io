@@ -10,3 +10,12 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+
+<style>
+  #search-toggle .nav-link {
+    font-size: 0 !important;
+  }
+  #search-toggle .nav-link i {
+    font-size: 1rem !important;
+  }
+<style>
