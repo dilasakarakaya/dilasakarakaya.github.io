@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: pp.jpg
+  image: pp copy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
@@ -29,7 +29,7 @@ latest_posts:
 
 <style>
   .profile {
-    width: 45% !important;
+    width: 50% !important;
   }
 </style>
 
