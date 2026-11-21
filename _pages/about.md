@@ -28,7 +28,7 @@ latest_posts:
 ---
 <style>
   .profile {
-    width: 50% !important;
+    width: 45% !important;
   }
 
     @media (min-width: 768px) {
@@ -37,11 +37,11 @@ latest_posts:
     }
   }
   
-  .news h2 a {
+  h2 a[href$="/news/"] {
     font-size: 0;
   }
-  .news h2 a::after {
-    content: "announcements";
+  h2 a[href$="/news/"]::after {
+    content: "Announcements";
     font-size: 2rem;
   }
 
