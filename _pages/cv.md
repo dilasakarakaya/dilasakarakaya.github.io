@@ -20,5 +20,5 @@ nav_order: 5
 <a href="/assets/pdf/cv.pdf" target="_blank">Download CV (PDF)</a>
 
 <object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="1100px">
-  <p><a href="/assets/pdf/cv.pdf">Download CV</a>.</p>
+  <p><a href="/assets/pdf/cv.pdf"></a></p>
 </object>
