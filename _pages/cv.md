@@ -17,8 +17,6 @@ nav_order: 5
   }
 </style>
 
-<a href="/assets/pdf/cv.pdf" target="_blank">Download CV (PDF)</a>
+<p style="text-align: right; font-size: 0.9rem;"><a href="/assets/pdf/cv.pdf" target="_blank">PDF</a></p>
 
-<object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="1100px">
-  <p><a href="/assets/pdf/cv.pdf"></a></p>
-</object>
+<iframe src="/assets/pdf/cv.pdf" width="100%" height="1100px" style="border: none;"></iframe>
