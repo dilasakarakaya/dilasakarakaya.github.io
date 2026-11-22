@@ -39,6 +39,14 @@ nav_order: 2
   .paper details summary {
     cursor: pointer;
   }
+    html[data-theme="dark"] footer {
+    opacity: 0.6;
+  }
+  @media (max-width: 768px) {
+    footer {
+      font-size: 0.75rem;
+    }
+  }
 </style>
 
 <h3 class="section-heading">Work in Progress</h3>
