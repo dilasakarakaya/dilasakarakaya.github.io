@@ -1,18 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
 
 <style>
- :root {
+  :root {
     --global-theme-color: #6d2348 !important;
     --global-hover-color: #6d2348 !important;
   }
@@ -20,4 +15,10 @@ toc:
     --global-theme-color: #e0a3c4 !important;
     --global-hover-color: #e0a3c4 !important;
   }
-<style>
+</style>
+
+<a href="/assets/pdf/cv.pdf" target="_blank">Download CV (PDF)</a>
+
+<object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="1100px">
+  <p><a href="/assets/pdf/cv.pdf">Download CV</a>.</p>
+</object>
