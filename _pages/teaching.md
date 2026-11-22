@@ -34,6 +34,14 @@ nav_order: 6
     font-style: italic;
     margin-top: 0;
   }
+    html[data-theme="dark"] footer {
+    opacity: 0.6;
+  }
+  @media (max-width: 768px) {
+    footer {
+      font-size: 0.75rem;
+    }
+  }
 </style>
 
 <h3 class="section-heading">2026</h3>
