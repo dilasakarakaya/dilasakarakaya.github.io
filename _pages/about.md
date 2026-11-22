@@ -28,7 +28,7 @@ latest_posts:
 ---
 <style>
   .profile {
-    width: 45% !important;
+    width: 40% !important;
   }
 
     @media (min-width: 768px) {
