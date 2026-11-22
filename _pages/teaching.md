@@ -40,5 +40,5 @@ nav_order: 6
 
 <div class="course">
   <p class="course-title">Advanced Economics</p>
-  <p class="course-info">Hertie School · graduate</p>
+  <p class="course-info">Teaching Assistant · Hertie School · graduate</p>
 </div>
