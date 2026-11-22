@@ -15,6 +15,15 @@ nav_order: 5
     --global-theme-color: #e0a3c4 !important;
     --global-hover-color: #e0a3c4 !important;
   }
+
+    html[data-theme="dark"] footer {
+    opacity: 0.6;
+  }
+  @media (max-width: 768px) {
+    footer {
+      font-size: 0.75rem;
+    }
+  }
 </style>
 
 <p style="text-align: right; font-size: 0.9rem;"><a href="/assets/pdf/cv_dk.pdf" target="_blank">PDF</a></p>
