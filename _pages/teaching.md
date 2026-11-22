@@ -2,10 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
 nav: true
 nav_order: 6
-calendar: true
 ---
 
 <style>
@@ -17,12 +15,30 @@ calendar: true
     --global-theme-color: #e0a3c4 !important;
     --global-hover-color: #e0a3c4 !important;
   }
-
-    #search-toggle .nav-link {
-    font-size: 0 !important;
+  .section-heading {
+    font-weight: 300;
+    font-size: 1.5rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.4rem;
+    margin: 1rem 0 1.5rem;
   }
-  #search-toggle .nav-link i {
-    font-size: 1rem !important;
+  .course {
+    margin-bottom: 1.5rem;
+  }
+  .course-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+  }
+  .course-info {
+    font-style: italic;
+    margin-top: 0;
   }
 </style>
 
+<h3 class="section-heading">2026</h3>
+
+<div class="course">
+  <p class="course-title">Advanced Economics</p>
+  <p class="course-info">Hertie School · graduate</p>
+</div>
