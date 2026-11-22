@@ -19,4 +19,4 @@ nav_order: 5
 
 <p style="text-align: right; font-size: 0.9rem;"><a href="/assets/pdf/cv_dk.pdf" target="_blank">PDF</a></p>
 
-<iframe src="/assets/pdf/cv.pdf" width="100%" height="1100px" style="border: none;"></iframe>
+<iframe src="/assets/pdf/cv_dk.pdf" width="100%" height="1100px" style="border: none;"></iframe>
